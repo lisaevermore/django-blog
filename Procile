@@ -1,2 +1,0 @@
-web: gunicorn codestar.psgi
-web: gunicorn django-blog-first-project.wsgi
